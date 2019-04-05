@@ -1,0 +1,4 @@
+#Mon Mar 25 10:31:40 IST 2019
+base.0=C\:\\Users\\ashish\\AndroidStudioProjects\\plugins\\packages\\firebase_ml_vision\\example\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
